@@ -8,7 +8,7 @@ import java.util.concurrent.Future;
 
 public class SpeechRecognition {
 
-    private static final String speechKey = "297e937bbb8648dfb0f804b72b44b79b";
+    private static final String speechKey = "xxx";
         private static final String speechRegion = "northeurope";
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
